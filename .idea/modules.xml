@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nal-core/nal-core.iml" filepath="$PROJECT_DIR$/nal-core/nal-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nal-tests/nal-tests.iml" filepath="$PROJECT_DIR$/nal-tests/nal-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nal-web/nal-web.iml" filepath="$PROJECT_DIR$/nal-web/nal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nishant-automationlabs.iml" filepath="$PROJECT_DIR$/nishant-automationlabs.iml" />
+    </modules>
+  </component>
+</project>
